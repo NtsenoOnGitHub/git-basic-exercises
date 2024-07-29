@@ -1,0 +1,83 @@
+    1  pwd
+    2  pwd
+    3  cd pictures
+    4  cd aubrey ntseno
+    5  mkdir folder1
+    6  cd folder1
+    7  clear
+    8  ls
+    9  pwd
+   10  cd /desktop
+   11  clear
+   12  cd desktop
+   13  cd home
+   14  cd users
+   15  clear
+   16  ls /
+   17  pwd
+   18  cd desktop
+   19  cd ..
+   20  clear
+   21  cd home
+   22  cd ..
+   23  cd aubrey ntseno
+   24  cd aubreyntseno
+   25  ls
+   26  cd AubreyNtseno
+   27  clear
+   28  cd ..
+   29  cd users
+   30  cd Aubrey Ntseno
+   31  cd 'Aubrey Ntseno'
+   32  ls
+   33  clear
+   34  cd desktop
+   35  cd 'coding challenges'
+   36  pwd
+   37  cd desktop
+   38  cd 'coding challenges'
+   39  mkdir git-basic-exercises
+   40  cd git-basic-exercises
+   41  git init
+   42  ls -a
+   43  git status
+   44  touch README.md
+   45  ls -a
+   46  git log
+   47  git add .
+   48  git status
+   49  git commit -m 'initial commit'
+   50  git status
+   51  git log
+   52  nano README.md
+   53  cat README.md
+   54  git status
+   55  git add .
+   56  git commit -m 'second commit'
+   57  git log
+   58  nano README.md
+   59  git status
+   60  git add .
+   61  git commit -m 'third commit'
+   62  git log
+   63  git log
+   64  git checkout de34ab4b703ec0e20fdd96be8f48072591ea2c35
+   65  cat README.md
+   66  git checjout main
+   67  git checkout main
+   68  at README.md
+   69  cat README.md
+   70  git branch 
+   71  git branch milkshake-flavours
+   72  git branch 
+   73  git checkout milkshake-flavours
+   74  nano milkshakes.md
+   75  git status
+   76  git add .
+   77  git commit -m 'added initial flavours'
+   78  git log
+   79  checkout main
+   80  git checkout main
+   81  git branch history
+   82  git branch
+   83  history > history.txt
